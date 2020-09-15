@@ -197,6 +197,7 @@ INCLUDES+=\
 
 SOURCES+=\
 	$(wildcard $(CY_AFR_ROOT)/libraries/3rdparty/http_parser/http_parser.c)\
+	$(wildcard $(CY_AFR_ROOT)/libraries/3rdparty/http-parser/http_parser.c)\
 	$(wildcard $(CY_AFR_ROOT)/libraries/3rdparty/lwip/src/api/*c)\
 	$(wildcard $(CY_AFR_ROOT)/libraries/3rdparty/lwip/src/core/*c)\
 	$(wildcard $(CY_AFR_ROOT)/libraries/3rdparty/lwip/src/core/ipv4/*c)\
@@ -223,6 +224,7 @@ endif
 INCLUDES+=\
 	$(CY_AFR_ROOT)/libraries/3rdparty/pkcs11\
 	$(CY_AFR_ROOT)/libraries/3rdparty/http_parser\
+	$(CY_AFR_ROOT)/libraries/3rdparty/http-parser\
 	$(CY_AFR_ROOT)/libraries/3rdparty/lwip/src/include\
 	$(CY_AFR_ROOT)/libraries/3rdparty/lwip_osal/include\
 	$(CY_AFR_ROOT)/libraries/3rdparty/mbedtls_config\

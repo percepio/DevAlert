@@ -174,7 +174,7 @@
 		<link>
 			<name>libraries/3rdparty/http_parser</name>
 			<type>2</type>
-			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/http_parser</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/http-parser</locationURI>
 		</link>
 		<link>
 			<name>libraries/3rdparty/mbedtls_config</name>
@@ -224,7 +224,7 @@
 		<link>
 			<name>libraries/3rdparty/http_parser/http_parser.c</name>
 			<type>1</type>
-			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/http_parser/http_parser.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/http-parser/http_parser.c</locationURI>
 		</link>
 		<link>
 			<name>libraries/3rdparty/lwip_osal/include</name>
@@ -254,7 +254,7 @@
 		<link>
 			<name>libraries/3rdparty/unity/src</name>
 			<type>2</type>
-			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/unity/src</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/Unity/src</locationURI>
 		</link>
 		<link>
 			<name>libraries/abstractions/pkcs11/include</name>
@@ -799,7 +799,7 @@
 		<link>
 			<name>libraries/3rdparty/unity/src/unity.c</name>
 			<type>1</type>
-			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/unity/src/unity.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/Unity/src/unity.c</locationURI>
 		</link>
 		<link>
 			<name>libraries/abstractions/platform/freertos/include</name>
@@ -1089,7 +1089,7 @@
 		<link>
 			<name>libraries/3rdparty/unity/extras/fixture/src</name>
 			<type>2</type>
-			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/unity/extras/fixture/src</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/Unity/extras/fixture/src</locationURI>
 		</link>
 		<link>
 			<name>libraries/abstractions/platform/freertos/include/platform</name>
@@ -1664,7 +1664,7 @@
 		<link>
 			<name>libraries/3rdparty/unity/extras/fixture/src/unity_fixture.c</name>
 			<type>1</type>
-			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/unity/extras/fixture/src/unity_fixture.c</locationURI>
+			<locationURI>PARENT-5-PROJECT_LOC/libraries/3rdparty/Unity/extras/fixture/src/unity_fixture.c</locationURI>
 		</link>
 		<link>
 			<name>libraries/c_sdk/standard/serializer/src/cbor/iot_serializer_tinycbor_decoder.c</name>
