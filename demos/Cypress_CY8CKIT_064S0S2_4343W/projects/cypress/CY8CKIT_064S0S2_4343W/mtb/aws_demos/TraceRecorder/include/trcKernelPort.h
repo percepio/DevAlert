@@ -16,6 +16,8 @@
  * specific processor, processor family or with a specific communication
  * interface. Any such modifications should be documented directly below
  * this comment block.  
+ * The DevAlert cloud service and the Tracealyzer desktop application are 
+ * provided under separate terms.
  *
  * Disclaimer
  * The RECORDER is being delivered to you AS IS and PERCEPIO makes no warranty

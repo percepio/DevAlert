@@ -12,7 +12,7 @@
  * is the intellectual property of Percepio AB (PERCEPIO) and provided under a
  * license as follows.
  * The SOFTWARE may be used free of charge for the purpose of collecting and
- * transferring data to the DFM service. It may not be used or modified for
+ * transferring data to the DevAlert cloud service. It may not be used or modified for
  * other purposes without explicit permission from PERCEPIO.
  * You may distribute the SOFTWARE in its original source code form, assuming
  * this text (terms of use, disclaimer, copyright notice) is unchanged. You are
@@ -21,6 +21,8 @@
  * specific processor, processor family or with a specific communication
  * interface. Any such modifications should be documented directly below
  * this comment block.  
+ * The DevAlert cloud service and the Tracealyzer desktop application are 
+ * provided under separate terms.
  *
  * Disclaimer
  * The SOFTWARE is being delivered to you AS IS and PERCEPIO makes no warranty

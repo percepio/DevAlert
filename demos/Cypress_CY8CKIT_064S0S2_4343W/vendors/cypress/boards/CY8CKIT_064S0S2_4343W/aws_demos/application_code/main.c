@@ -25,6 +25,8 @@
  *
  * http://aws.amazon.com/freertos
  * http://www.FreeRTOS.org
+ * The DevAlert cloud service and the Tracealyzer desktop application are 
+ * provided under separate terms.
  */
 
 /* FIX ME: If you are using Ethernet network connections and the FreeRTOS+TCP stack,
