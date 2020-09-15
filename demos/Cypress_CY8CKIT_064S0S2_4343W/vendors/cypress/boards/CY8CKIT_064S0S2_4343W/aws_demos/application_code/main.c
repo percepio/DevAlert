@@ -523,6 +523,7 @@ static void DFMTask(void *pvParameters)
 					}
 				case SWIPE_LEFT:
 
+						// FIXME DevAlert example
 						configPRINTF(("\r\nDevAlert - Testing 'Swipe left' error.\r\n"));
 
 						// Adding a "user event" to the trace buffer
@@ -663,6 +664,7 @@ void vApplicationTickHook()
 /* Error handler - Failed to allocate requested memory */
 void vApplicationMallocFailedHook()
 {
+	// FIXME DevAlert example
 	// Adding a "user event" to the trace buffer
 	vTracePrintF(devalert_user_event_channel, "Malloc failed.\r\n");
 
@@ -788,6 +790,7 @@ void UsageFault_Handler2(sContextStateFrame *frame) {
 	_UFSR = (_CFSR >> 16) & 0xffff;
 	_BFSR = (_CFSR >> 8);
 
+	// FIXME DevAlert example
 	// Stops the recording and checks the error type and adds right symptoms.
 	if(_UFSR != 0){
 

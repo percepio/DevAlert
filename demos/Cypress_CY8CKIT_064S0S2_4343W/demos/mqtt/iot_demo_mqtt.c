@@ -263,6 +263,7 @@ int RunMqttDemo( bool awsIotMqttMode,
 
 		/*** DevAlert Initialization *****************************************/
 
+		// FIXME DevAlert example
 		// The main DevAlert initilaization
 		status = ulDfmInit(versionBuf);
 

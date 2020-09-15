@@ -227,6 +227,7 @@ standard names. */
 #define xPortSysTickHandler SysTick_Handler
 
 #include "percepio_dfm.h"
+// FIXME DevAlert example
 #define configASSERT( x )                                        \
     if( ( x ) == 0 ) { \
     	traceString user_channel = xTraceRegisterString("User Events Assert");\
