@@ -1,18 +1,18 @@
 [submodule "demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/CMock"]
 	path = demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/CMock
-	url = git@github.com-work:ThrowTheSwitch/CMock.git
+	url = https://github.com/ThrowTheSwitch/CMock.git
 [submodule "demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/http-parser"]
 	path = demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/http-parser
-	url = git@github.com-work:nodejs/http-parser.git
+	url = https://github.com/nodejs/http-parser.git
 [submodule "demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/lwip"]
 	path = demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/lwip
-	url = git@github.com-work:lwip-tcpip/lwip.git
+	url = https://github.com/lwip-tcpip/lwip.git
 [submodule "demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/mbedtls"]
 	path = demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/mbedtls
-	url = git@github.com-work:ARMmbed/mbedtls.git
+	url = https://github.com/ARMmbed/mbedtls.git
 [submodule "demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/pkcs11"]
 	path = demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/pkcs11
-	url = git@github.com-work:amazon-freertos/pkcs11.git
+	url = https://github.com/amazon-freertos/pkcs11.git
 [submodule "demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/Unity"]
 	path = demos/Cypress_CY8CKIT_064S0S2_4343W/libraries/3rdparty/Unity
-	url = git@github.com-work:ThrowTheSwitch/Unity.git
+	url = https://github.com/ThrowTheSwitch/Unity.git
