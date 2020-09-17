@@ -46,6 +46,9 @@ After that, the CapSense buttons and slider can be used to generate alerts to De
 To view the reported alerts, see "Tracealyzer" below.
 
 To see how to configure Tracealyzer go to: https://percepio.com/evaluate-devalert-cypress-cy8ckit-064/
+
+NOTE: This project uses git submodules so they need to be initialized befored the project can be build. If the project is downloaded as a .zip file the submodules will not be included.
+NOTE1: On Windows it can be a problem with the search path if it's to long. So the project should be placed as closed as C:\ as possible. 
  
 # Percepio DevAlert
 
